@@ -1,0 +1,4 @@
+﻿  MainCode.cpp
+c:\users\callum\documents\visual studio 2015\projects\oot assignment 2\source\tic tac toe\maincode.cpp(48): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Tic Tac Toe.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\OOT Assignment 2\Source\Debug\Tic Tac Toe.exe
+  Tic Tac Toe.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\OOT Assignment 2\Source\Debug\Tic Tac Toe.pdb (Full PDB)
